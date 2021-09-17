@@ -1,0 +1,23 @@
+{
+  "name": "modern",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "gulp sass",
+    "watch": "gulp sass:watch"
+  },
+  "author": "michael",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-sass": "^4.1.0",
+    "gulp-watch": "^4.2.4",
+    "node-sass": "^5.0.0"
+  },
+  "dependencies": {
+    "browser-sync": "^2.26.14"
+  }
+}
