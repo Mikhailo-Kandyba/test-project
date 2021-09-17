@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="664fe899-f154-4850-848c-8b8aa407cd02" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/01(1).svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/01-one.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/02(1).svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/02-two.svg" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -22,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="292">
-              <caret line="1385" column="22" lean-forward="true" selection-start-line="1385" selection-start-column="22" selection-end-line="1385" selection-end-column="22" />
+            <state relative-caret-position="238">
+              <caret line="14" column="60" lean-forward="true" selection-start-line="14" selection-start-column="60" selection-end-line="14" selection-end-column="60" />
               <folding>
                 <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#0;n#div#1;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#0;n#div#1;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" />
@@ -42,7 +38,7 @@
         <entry file="file://$PROJECT_DIR$/public/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="62204" selection-start-column="62204" selection-end-column="62204" />
+              <caret column="62419" selection-start-column="62419" selection-end-column="62419" />
             </state>
           </provider>
         </entry>
@@ -54,10 +50,20 @@
       <find>.location-header__title:before</find>
       <find>.location-header__title</find>
       <find>.location-header__title:after</find>
-      <find>.link-arrow:after</find>
       <find>el__image</find>
       <find>.load</find>
       <find>items__column</find>
+      <find>02(1).svg</find>
+      <find>.city-search__value:before</find>
+      <find>.location__search:after</find>
+      <find>.top-header__login:after</find>
+      <find>url</find>
+      <find>.ic-fav:before</find>
+      <find>.link-arrow:after</find>
+      <find>.add-header__button:before</find>
+      <find>.search-block__bg</find>
+      <find>.item-main-search__title:after</find>
+      <find>.ic-user</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -69,8 +75,8 @@
         <option value="$PROJECT_DIR$/../недвига_files/style5.css" />
         <option value="$USER_HOME$/Desktop/Недвижимость в Киеве ★ Продажа и аренда недвижимости в Киеве _ country.ua.html" />
         <option value="$PROJECT_DIR$/public/css/style5.css" />
-        <option value="$PROJECT_DIR$/public/css/style.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/public/css/style.css" />
       </list>
     </option>
   </component>
@@ -108,6 +114,12 @@
               <item name="test-project" type="462c0819:PsiDirectoryNode" />
               <item name="public" type="462c0819:PsiDirectoryNode" />
               <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test-project" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -148,12 +160,12 @@
       <updated>1631894665331</updated>
       <workItem from="1631894666584" duration="7029000" />
       <workItem from="1631905113462" duration="4474000" />
-      <workItem from="1631910602152" duration="693000" />
+      <workItem from="1631910602152" duration="3941000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12196000" />
+    <option name="totallyTimeSpent" value="15444000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -239,13 +251,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../недвига_files/style5.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="1115" column="14" lean-forward="true" selection-start-line="1115" selection-start-column="14" selection-end-line="1115" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Desktop/Недвижимость в Киеве ★ Продажа и аренда недвижимости в Киеве _ country.ua.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="417">
@@ -282,24 +287,47 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../недвига_files/style5.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="1115" column="14" lean-forward="true" selection-start-line="1115" selection-start-column="14" selection-end-line="1115" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/public/css/style5.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="195" column="36" lean-forward="true" selection-start-line="195" selection-start-column="36" selection-end-line="195" selection-end-column="36" />
+        <state relative-caret-position="326">
+          <caret line="834" column="21" lean-forward="true" selection-end-line="4812" />
+          <folding>
+            <element signature="e#45469#45602#0" />
+            <element signature="e#45623#45646#0" />
+            <element signature="e#45660#45984#0" />
+            <element signature="e#45996#46021#0" />
+            <element signature="e#46034#46127#0" />
+            <element signature="e#46129#47101#0" />
+            <element signature="e#55215#55478#0" />
+            <element signature="e#55479#59977#0" />
+            <element signature="e#84565#84728#0" />
+            <element signature="e#84730#84954#0" />
+            <element signature="e#84956#87723#0" />
+            <element signature="e#87725#87798#0" />
+            <element signature="e#87800#89482#0" />
+            <element signature="e#89484#89572#0" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="62204" selection-start-column="62204" selection-end-column="62204" />
+          <caret column="62419" selection-start-column="62419" selection-end-column="62419" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="1385" column="22" lean-forward="true" selection-start-line="1385" selection-start-column="22" selection-end-line="1385" selection-end-column="22" />
+        <state relative-caret-position="238">
+          <caret line="14" column="60" lean-forward="true" selection-start-line="14" selection-start-column="60" selection-end-line="14" selection-end-column="60" />
           <folding>
             <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#0;n#div#1;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#0;n#div#1;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" />
